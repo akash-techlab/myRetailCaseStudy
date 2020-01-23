@@ -1,0 +1,8 @@
+com\casestudy\myRetail\service\RetailService.class
+com\casestudy\myRetail\exception\ExceptionHandler.class
+com\casestudy\myRetail\domain\CurrentPrice.class
+com\casestudy\myRetail\domain\ProductDetails.class
+com\casestudy\myRetail\MyRetailApplication.class
+com\casestudy\myRetail\domain\Products.class
+com\casestudy\myRetail\web\MyRetailController.class
+com\casestudy\myRetail\repository\MyProductsRepository.class
